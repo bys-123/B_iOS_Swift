@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "03e685b59c99185dd7bf86f00a08bee9"
+build_time: [585647683, 380342000]
+inputs:
+  "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/FlappyBirdUITests/FlappyBirdUITests.swift": [566298980, 0]

@@ -1,0 +1,134 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ACTLabel.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/AppCenterXCUITestExtensions/Sources/ACTLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "ACTLaunch.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/AppCenterXCUITestExtensions/Sources/ACTLaunch.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppCenterXCUITestExtensions-Bridging-Header.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/AppCenterXCUITestExtensions/Sources/AppCenterXCUITestExtensions-Bridging-Header.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppCenterXCUITestExtensions-Swift.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions.framework/Headers/AppCenterXCUITestExtensions-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppCenterXCUITestExtensions-umbrella.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/Target Support Files/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppCenterXCUITestExtensions.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/AppCenterXCUITestExtensions/Sources/AppCenterXCUITestExtensions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Intermediates/Pods.build/Debug-iphoneos/AppCenterXCUITestExtensions.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBird.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-FlappyBird-umbrella.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/Target Support Files/Pods-FlappyBird/Pods-FlappyBird-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_FlappyBird-Swift.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBird.framework/Headers/Pods_FlappyBird-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBird.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-FlappyBird.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBirdTests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-FlappyBirdTests-umbrella.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/Target Support Files/Pods-FlappyBirdTests/Pods-FlappyBirdTests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_FlappyBirdTests-Swift.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBirdTests.framework/Headers/Pods_FlappyBirdTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBirdTests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-FlappyBirdTests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBirdUITests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-FlappyBirdUITests-umbrella.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/Target Support Files/Pods-FlappyBirdUITests/Pods-FlappyBirdUITests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_FlappyBirdUITests-Swift.h",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBirdUITests.framework/Headers/Pods_FlappyBirdUITests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos/Pods_FlappyBirdUITests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-FlappyBirdUITests.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "iOS" : [
+    {
+      "hash" : "3becddb98a560b5e96c4d1a0dfe46abd1b1da273ce5125903c3bf6c88409f95c",
+      "name" : "AppCenterXCUITestExtensions"
+    }
+  ],
+  "commitish" : "1.0.0",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+
+  ]
+}
