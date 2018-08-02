@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate,MSCrashesDelegate,MSPushDe
         //MSMobileCenter.setLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
         MSCrashes.setDelegate(self)
         MSPush.setDelegate(self)
-        MSAppCenter.start("53d1f52d-dd43-4cfb-8cde-1cefb3dd9128", withServices:[
+        MSAppCenter.start("2529db49-0334-44c9-8d1a-e10cd978cc43", withServices:[
             MSAnalytics.self,
             MSCrashes.self,
             MSPush.self
