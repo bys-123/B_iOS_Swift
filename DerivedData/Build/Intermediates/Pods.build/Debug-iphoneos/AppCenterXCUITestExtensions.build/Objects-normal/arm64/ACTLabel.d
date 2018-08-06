@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/AppCenterXCUITestExtensions/Sources/ACTLabel.m \
-  /Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Intermediates/Pods.build/Debug-iphoneos/AppCenterXCUITestExtensions.build/module.modulemap \
-  /Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/Target\ Support\ Files/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions-prefix.pch \
+  /Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/Pods/AppCenterXCUITestExtensions/Sources/ACTLabel.m \
+  /Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Intermediates/Pods.build/Debug-iphoneos/AppCenterXCUITestExtensions.build/module.modulemap \
+  /Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/Pods/Target\ Support\ Files/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions-prefix.pch \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
@@ -37,4 +37,4 @@ dependencies: \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/AppCenterXCUITestExtensions/Sources/ACTLabel.h
+  /Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/Pods/AppCenterXCUITestExtensions/Sources/ACTLabel.h

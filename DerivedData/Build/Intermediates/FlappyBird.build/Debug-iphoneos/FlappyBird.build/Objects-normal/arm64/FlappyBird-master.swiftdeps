@@ -1,7 +1,7 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-options: "8a82d17a009afd9808ff9f7314ed9dfb"
-build_time: [585647589, 481246000]
+options: "f054898a2331a85cb363bbdcb81f8f73"
+build_time: [586854996, 879925000]
 inputs:
-  "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/FlappyBird/GameScene.swift": [566298980, 0]
-  "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/FlappyBird/GameViewController.swift": [566298980, 0]
-  "/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/FlappyBird/AppDelegate.swift": [571737763, 0]
+  "/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/FlappyBird/GameScene.swift": [566298980, 0]
+  "/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/FlappyBird/GameViewController.swift": [566298980, 0]
+  "/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/FlappyBird/AppDelegate.swift": [571737763, 0]

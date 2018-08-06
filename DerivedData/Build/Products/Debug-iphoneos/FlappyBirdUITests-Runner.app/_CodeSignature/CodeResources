@@ -150,7 +150,7 @@
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		KeqD8ejoATOmS/m+6818OFBHlzw=
+		KBEr8aUo0XDAaNyPxYxTYkvoKKM=
 		</data>
 		<key>Frameworks/XCTest.framework/XPCServices/XCUIRecorderService.xpc/Info.plist</key>
 		<data>
@@ -215,15 +215,15 @@
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest.dSYM/Contents/Resources/DWARF/FlappyBirdUITests</key>
 		<data>
-		B0WTlOLYPuw+RTJBNqOOew4UCK8=
+		6SdeVAcqIx6/pF4UqG0MNmPkGyI=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/FlappyBirdUITests</key>
 		<data>
-		wo1EJ7wnfnpCTLuht2aWxUXHhZM=
+		bqjKDBtIf02iNpak010ZZBuPVPU=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/AppCenterXCUITestExtensions.framework/AppCenterXCUITestExtensions</key>
 		<data>
-		onyEHKiuUPx7UMx8ZbjHWyKYoUY=
+		reswvEvuP9saIl+XVmhhOZTHN20=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/AppCenterXCUITestExtensions.framework/Info.plist</key>
 		<data>
@@ -235,51 +235,51 @@
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCore.dylib</key>
 		<data>
-		ql582lpm2vwooHx7Qbz46KwUE8E=
+		RmONrfTNlMajVe8zJc6EQiSooOQ=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCoreAudio.dylib</key>
 		<data>
-		g0Kv8M5eO84EqDHYHzy7nrxnGGo=
+		gj0ttSbs+fljo0BtCe9QbEimMZA=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		V7N0HLwScGotmt9qxUfuZm02T74=
+		8Mo0QVnAe2GAOWidOsls3GMlyJM=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		9w3sZrYdFy0WHGj71Fk5RsEjYC8=
+		I3bRj5VnQJCamjnn7WmPbwcjoj4=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCoreMedia.dylib</key>
 		<data>
-		Zubi/I4NDgIkTr0vdVJyWfOnADs=
+		7StYIjgcTd1RIgEgFzLv1SHRD+M=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		L6EyDCNQlicKR8V9J8xl4W3tECQ=
+		GZu1iiFzex3/VAonH+ejuB8dkrM=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		6R8lgBBebrQzcGIhcgKodwjmsgo=
+		oMqSh88Ovmw7tmlwVoml3GJVQcI=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		FFko6awKsxZdyCbCeCzXmtQEWis=
+		SqQl1qaPAFT+EQmM1VLhfKWGZ5w=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		nxlnRmT4UG+SgW4AyEsAEFgCC3o=
+		e1QjwL16yBStflOahhf2mgbEDNw=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftQuartzCore.dylib</key>
 		<data>
-		+gJJ1diaDu6TNZF/W8FAlH9ecZg=
+		RUUQOzo0ogifWsayrxQ1it06AG0=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		+bz0zRSY7ZbaiUJ7tXegmld6HfA=
+		0ZQ/ttIKmmh1X/JiWNiu/WXDcDM=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftXCTest.dylib</key>
 		<data>
-		+YLcY9qQ7D8L0XyAaKBdR+dzgZc=
+		5TV4fh4bTmqhnT4+t8n4d5l/XFk=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/Info.plist</key>
 		<data>
@@ -287,7 +287,7 @@
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		NMc3DU7bORq4HgfWUqY9JGOMLAY=
+		ROlVvYotaxK9DALFE0xmnY/Z+WY=
 		</data>
 		<key>PlugIns/FlappyBirdUITests.xctest/libswiftRemoteMirror.dylib</key>
 		<data>
@@ -700,11 +700,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KeqD8ejoATOmS/m+6818OFBHlzw=
+			KBEr8aUo0XDAaNyPxYxTYkvoKKM=
 			</data>
 			<key>hash2</key>
 			<data>
-			UpZb0qCMML/mq0o4nKrhNxzcnIO72gI+C1afx5jnodw=
+			ikMpPJnmGAXqkGQYWrgsOjreHiwCvRTEjDkG3wL0mC4=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XPCServices/XCUIRecorderService.xpc/Info.plist</key>
@@ -845,33 +845,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B0WTlOLYPuw+RTJBNqOOew4UCK8=
+			6SdeVAcqIx6/pF4UqG0MNmPkGyI=
 			</data>
 			<key>hash2</key>
 			<data>
-			7zOkMQ3wT7G3ZwCQZuq+Uk9rhIVDlQliCijQTuy1nvo=
+			UHyVZUIJPuh9805vheXV8lmyX6eVCGPgmOgrbefYfV0=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/FlappyBirdUITests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wo1EJ7wnfnpCTLuht2aWxUXHhZM=
+			bqjKDBtIf02iNpak010ZZBuPVPU=
 			</data>
 			<key>hash2</key>
 			<data>
-			b+DG3hnokPLvU6uwxWv9FWp+FR1p1y8ldozrxsHpOi4=
+			IBYlClOVEEKTHFj5eIw25uB3JMNgtu4oxNIHIGR5opM=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/AppCenterXCUITestExtensions.framework/AppCenterXCUITestExtensions</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			onyEHKiuUPx7UMx8ZbjHWyKYoUY=
+			reswvEvuP9saIl+XVmhhOZTHN20=
 			</data>
 			<key>hash2</key>
 			<data>
-			ChYPKmTXk9ajIlZMS4UF/r0V67bJ0X8TBTQzD6NcTuQ=
+			drbIptU6S7NeZ59s+LYhk8RNyFhQRmaqGLN6iPhObu4=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/AppCenterXCUITestExtensions.framework/Info.plist</key>
@@ -900,132 +900,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ql582lpm2vwooHx7Qbz46KwUE8E=
+			RmONrfTNlMajVe8zJc6EQiSooOQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZTO1xOwcAxnyKuTdRKLNpBStB+4HQOPyg497xFPgtoU=
+			SZK2SO4heuN2FZU9U2otz+NgavPfKBpnFgB7P7v6xMY=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCoreAudio.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g0Kv8M5eO84EqDHYHzy7nrxnGGo=
+			gj0ttSbs+fljo0BtCe9QbEimMZA=
 			</data>
 			<key>hash2</key>
 			<data>
-			zvCQPWd7fM2P6Vb/B+i72X0kYbkqF569VQdXqaMRz5A=
+			Pf6AZmyssG8fRKHTPbndZzRW7OJPFvaE3YyZKDoDf6M=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V7N0HLwScGotmt9qxUfuZm02T74=
+			8Mo0QVnAe2GAOWidOsls3GMlyJM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VlhrYB8r2TqPshTJnDNSMDHt3WMMfNFsLGecMbYy6+s=
+			yPU1d1oJqwDxs/mCyZqJdBAhPD+QkUryQW/NjhbnKbo=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCoreImage.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9w3sZrYdFy0WHGj71Fk5RsEjYC8=
+			I3bRj5VnQJCamjnn7WmPbwcjoj4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qiGe/qZBwc/L4H4i3djEcNcNnoaaqMFgxYWDY6VxmB4=
+			niE7735cg42WsOjBprjle203xvvsfO/KYI56bmUZ9tg=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftCoreMedia.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zubi/I4NDgIkTr0vdVJyWfOnADs=
+			7StYIjgcTd1RIgEgFzLv1SHRD+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			8z3Z8w3LFOEvWksTg5I1iYtH9L07v+8JE2PLFIBijqc=
+			0KuCpSklDj5hYr1Rt1et30AKX7t9Y7/mmcyGLmIQC6I=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L6EyDCNQlicKR8V9J8xl4W3tECQ=
+			GZu1iiFzex3/VAonH+ejuB8dkrM=
 			</data>
 			<key>hash2</key>
 			<data>
-			o3/6yZOyorS+dL5UxbHJI4+N8iXct89oeBIHlOzz014=
+			+2QZw9xfMEO7JH182NjMDnigHv9pJZDBbTscSUXrmR8=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftDispatch.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6R8lgBBebrQzcGIhcgKodwjmsgo=
+			oMqSh88Ovmw7tmlwVoml3GJVQcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			CNTK1M+ceufdfwTS6WZ1nh0eRm41RTp/WMtSxRgh9hQ=
+			UtOSa6d7K/iMY+e0AiDgX4AXDcMqqQj5WdYyYd0/rKY=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftFoundation.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FFko6awKsxZdyCbCeCzXmtQEWis=
+			SqQl1qaPAFT+EQmM1VLhfKWGZ5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			TPwJqVyjgwr6bypkte0KOI9h/zGmLjTZr35aTV+TtaA=
+			RHrn6Omp7hEOjvxI0l9cV97zMCj6VyIVu6ex3iVBPVw=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nxlnRmT4UG+SgW4AyEsAEFgCC3o=
+			e1QjwL16yBStflOahhf2mgbEDNw=
 			</data>
 			<key>hash2</key>
 			<data>
-			f+QZkpBPUKDaITV1N8ns1alZ3sOC+0GeQvuFCh4HgUE=
+			wjgSp1pSBk0Zxe5huxi1a58EJFUZ70cI8wpqvkRcZdI=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftQuartzCore.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+gJJ1diaDu6TNZF/W8FAlH9ecZg=
+			RUUQOzo0ogifWsayrxQ1it06AG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			5t2O0zs2gYO1c+Lc5oacdrKs8EaWPo+buROsRvfKxlI=
+			X5nAR/pUXoDaTkvPP/mYCl7UOyXKUAxvtUdR2gE6ad4=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftUIKit.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+bz0zRSY7ZbaiUJ7tXegmld6HfA=
+			0ZQ/ttIKmmh1X/JiWNiu/WXDcDM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vWNZSL3/QeBL+AcJ+4qY3OQFSubaiSkXhhj95sCwwi4=
+			Q31H/wvu0+F9+kEQhY4CIR0ZUCRkzfl595zbf0VZf2Q=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Frameworks/libswiftXCTest.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+YLcY9qQ7D8L0XyAaKBdR+dzgZc=
+			5TV4fh4bTmqhnT4+t8n4d5l/XFk=
 			</data>
 			<key>hash2</key>
 			<data>
-			vH+zb/3IAzCNRx/wt95x7SqONUb3rRC2hrfEHmfxreA=
+			Z3EpxOvNYpVCLguzYLFNZ+Au17JuRK9tsIIFPMWmevw=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/Info.plist</key>
@@ -1043,11 +1043,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NMc3DU7bORq4HgfWUqY9JGOMLAY=
+			ROlVvYotaxK9DALFE0xmnY/Z+WY=
 			</data>
 			<key>hash2</key>
 			<data>
-			HE6AV28Ww7Fa179iAfQvesj2OwpWttG+fy0SiYIkRU4=
+			Ob5e5Z0jMuNocJFB+JpGo+89eDYlFDjfTi0XltkZr3s=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdUITests.xctest/libswiftRemoteMirror.dylib</key>

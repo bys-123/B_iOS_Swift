@@ -227,8 +227,6 @@
 				437451F6193D163700654986 /* Sources */,
 				437451F7193D163700654986 /* Frameworks */,
 				437451F8193D163700654986 /* Resources */,
-				0B62BF0DA41C8A15E9148105 /* [CP] Embed Pods Frameworks */,
-				F589B48DC80EBDBDE4CB12F5 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -247,8 +245,6 @@
 				4374520C193D163800654986 /* Sources */,
 				4374520D193D163800654986 /* Frameworks */,
 				4374520E193D163800654986 /* Resources */,
-				624204A4D724BF0341E47C3A /* [CP] Embed Pods Frameworks */,
-				AC7DEBD0A69E230132C76DFA /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -269,7 +265,6 @@
 				4A20873B1F4BD62A00CEE664 /* Frameworks */,
 				4A20873C1F4BD62A00CEE664 /* Resources */,
 				A612F534CACB982A06D80D7C /* [CP] Embed Pods Frameworks */,
-				A68CD797DE0423A1A5811ABB /* [CP] Copy Pods Resources */,
 				4A1046A21FCC1A8E00E04AE2 /* CopyFiles */,
 			);
 			buildRules = (
@@ -367,21 +362,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		0B62BF0DA41C8A15E9148105 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FlappyBird/Pods-FlappyBird-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		357A84D895738C520C398828 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -398,21 +378,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		624204A4D724BF0341E47C3A /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FlappyBirdTests/Pods-FlappyBirdTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		90597F701FF4607E2713F9CE /* [CP] Check Pods Manifest.lock */ = {
@@ -451,36 +416,6 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FlappyBirdUITests/Pods-FlappyBirdUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A68CD797DE0423A1A5811ABB /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FlappyBirdUITests/Pods-FlappyBirdUITests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		AC7DEBD0A69E230132C76DFA /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FlappyBirdTests/Pods-FlappyBirdTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		D82E0AF0F7E1B9EF022719BE /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -497,21 +432,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F589B48DC80EBDBDE4CB12F5 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FlappyBird/Pods-FlappyBird-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

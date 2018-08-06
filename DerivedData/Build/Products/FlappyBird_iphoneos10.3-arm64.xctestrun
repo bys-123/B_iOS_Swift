@@ -7,31 +7,31 @@
 		<key>BundleIdentifiersForCrashReportEmphasis</key>
 		<array>
 			<string>com.example.FlappyBirdUITests</string>
-			<string>io.fullstack.FlappyBirdTests</string>
 			<string>qw.FlappyBird</string>
+			<string>io.fullstack.FlappyBirdTests</string>
 		</array>
 		<key>CommandLineArguments</key>
 		<array/>
 		<key>DependentProductPaths</key>
 		<array>
-			<string>__TESTROOT__/Debug-iphoneos/FlappyBird.app</string>
 			<string>__TESTROOT__/Debug-iphoneos/FlappyBird.app/PlugIns/FlappyBirdTests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/FlappyBird.app</string>
 			<string>__TESTROOT__/Debug-iphoneos/FlappyBirdUITests-Runner.app/PlugIns/FlappyBirdUITests.xctest</string>
 		</array>
 		<key>EnvironmentVariables</key>
 		<dict>
 			<key>DYLD_FRAMEWORK_PATH</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 			<key>DYLD_LIBRARY_PATH</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 			<key>OS_ACTIVITY_DT_MODE</key>
 			<string>YES</string>
 			<key>__XCODE_BUILT_PRODUCTS_DIR_PATHS</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 			<key>__XPC_DYLD_FRAMEWORK_PATH</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 			<key>__XPC_DYLD_LIBRARY_PATH</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 		</dict>
 		<key>IsAppHostedTestBundle</key>
 		<true/>
@@ -64,31 +64,31 @@
 		<key>BundleIdentifiersForCrashReportEmphasis</key>
 		<array>
 			<string>com.example.FlappyBirdUITests</string>
-			<string>io.fullstack.FlappyBirdTests</string>
 			<string>qw.FlappyBird</string>
+			<string>io.fullstack.FlappyBirdTests</string>
 		</array>
 		<key>CommandLineArguments</key>
 		<array/>
 		<key>DependentProductPaths</key>
 		<array>
-			<string>__TESTROOT__/Debug-iphoneos/FlappyBird.app</string>
 			<string>__TESTROOT__/Debug-iphoneos/FlappyBird.app/PlugIns/FlappyBirdTests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/FlappyBird.app</string>
 			<string>__TESTROOT__/Debug-iphoneos/FlappyBirdUITests-Runner.app/PlugIns/FlappyBirdUITests.xctest</string>
 		</array>
 		<key>EnvironmentVariables</key>
 		<dict>
 			<key>DYLD_FRAMEWORK_PATH</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 			<key>DYLD_LIBRARY_PATH</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 			<key>OS_ACTIVITY_DT_MODE</key>
 			<string>YES</string>
 			<key>__XCODE_BUILT_PRODUCTS_DIR_PATHS</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 			<key>__XPC_DYLD_FRAMEWORK_PATH</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 			<key>__XPC_DYLD_LIBRARY_PATH</key>
-			<string>/Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Products/Debug-iphoneos</string>
+			<string>/Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Products/Debug-iphoneos</string>
 		</dict>
 		<key>IsUITestBundle</key>
 		<true/>

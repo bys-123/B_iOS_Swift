@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/AppCenterXCUITestExtensions/Sources/ACTLaunch.m \
-  /Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/DerivedData/Build/Intermediates/Pods.build/Debug-iphoneos/AppCenterXCUITestExtensions.build/module.modulemap \
-  /Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/Target\ Support\ Files/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions-prefix.pch \
-  /Users/bys/Documents/chmin/ios-swift-OC/ios-swift-bucket/Pods/AppCenterXCUITestExtensions/Sources/ACTLaunch.h \
+  /Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/Pods/AppCenterXCUITestExtensions/Sources/ACTLaunch.m \
+  /Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/DerivedData/Build/Intermediates/Pods.build/Debug-iphoneos/AppCenterXCUITestExtensions.build/module.modulemap \
+  /Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/Pods/Target\ Support\ Files/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions-prefix.pch \
+  /Users/bys/Documents/chmin/ios-swift-OC/iOS-Swift/Pods/AppCenterXCUITestExtensions/Sources/ACTLaunch.h \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Volumes/Macintosh\ HD\ 2/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \

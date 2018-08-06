@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		0BjnjPEe3j9JG9PYwQYiAV7WfW8=
+		sPWWr3GXZ0vL91Mvx7/flLJo/9U=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BV1-FR-VrT-view-3se-qz-xqx.nib</key>
 		<data>
-		9OtFcJz5idZXOTENs93dkZjx9KY=
+		Fw1wvBe4fIPv7BmzH+PB+2yAKGY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BV1-FR-VrT.nib</key>
 		<data>
-		PPVxsGIGIVIKifTt/4OpEEM8VHw=
+		Ak9OQ7n77ZHT5hioF7qLhzYJYeM=
 		</data>
 		<key>Cartfile</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
-		cxaRvX4d/XL2O/T34quVhV2Wx4A=
+		ZxBMUODXYpCR2WVA17en4Jxx/FY=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		KeqD8ejoATOmS/m+6818OFBHlzw=
+		rsU0d0f/iuesD0UQoNb9zRi6FLw=
 		</data>
 		<key>Frameworks/XCTest.framework/XPCServices/XCUIRecorderService.xpc/Info.plist</key>
 		<data>
@@ -239,55 +239,55 @@
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		n52xdX9RbyL+ccac+npQuME58Ag=
+		faNLGFdjQ2sKiTJrHDN7U4RXBdE=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		c4UH+LXO0t3W+Cxs+s/VU4j2rE8=
+		MXDB+ryWET9N3yGOYexATfM8yUM=
 		</data>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		omTRmadnE1t+UHAA1LLm5vPoH0k=
+		OOorGbFw6QH5MIZSZxt14kTGbOs=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		61Lh8b01uOsL/wRqsAdEl0qcQ+s=
+		v1nDC/Qm2mrsovxlH6ii4Qelepk=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		BVzv2zLIfhjNIzWpz9jbFUlgOcY=
+		NFHZC7/TdvkEiPGxPPvpfXE6TXc=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		3YjdFslBuZ0VRERZ3s8JswC2k7U=
+		sOjpwVNDpphVgl9Hd4jC1Vhqx+0=
 		</data>
 		<key>Frameworks/libswiftGLKit.dylib</key>
 		<data>
-		MYDc6IPq3xqsH6sdqajXssFGkSA=
+		LckbCH+kl1F3v9dVbV2vdtSCnbA=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		ujngXx6GPsQAIbI4BySenJSAv1M=
+		lXbvSvlJIszKYgJma81k7nG5j2M=
 		</data>
 		<key>Frameworks/libswiftQuartzCore.dylib</key>
 		<data>
-		00LP5ibSdxU3AxPH3lrW2+iSZLg=
+		336Fv3ELvJNKx2ikDWq8syVE/yg=
 		</data>
 		<key>Frameworks/libswiftSpriteKit.dylib</key>
 		<data>
-		84x9kkuB0IMPRYmoQur3xQlmcbg=
+		59Cp/iXiHIqg/bMEz5caVh+ink4=
 		</data>
 		<key>Frameworks/libswiftSwiftOnoneSupport.dylib</key>
 		<data>
-		6cc0OGnsvZEcuNcmU+Ieqg9nBJM=
+		ikqyOS6+QOETV4OYDQLAX+Dk26A=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		p4DZKGI6/buaayAu/0z/QVmss9g=
+		iN0wyl2sIVW34MuGpYC+a9krC6I=
 		</data>
 		<key>Frameworks/libswiftsimd.dylib</key>
 		<data>
-		tv8tMFvN1/KAzb7G4vCrjLeuEks=
+		rglFC/DjSJnbDh6U3JAMFnIvKqY=
 		</data>
 		<key>GameScene.sks</key>
 		<data>
@@ -295,11 +295,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Jmt2n+sMw1v45p9cmOmumGAMBaA=
+		PRo144/ZHgtw0zmLyS5iJ2Ql1yk=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		EtHgD+spnPBfEXRYj6JAcPDPOvM=
+		1+OZtm70IuG7TN5BJpcRGzp5UvA=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -307,7 +307,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		pItDQx9cKeWuSrBHykDx0ND2PsQ=
+		cAnElH4yzk+1fEjciVFNVuN6O0g=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -319,59 +319,59 @@
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest.dSYM/Contents/Resources/DWARF/FlappyBirdTests</key>
 		<data>
-		nT1kr3EiQ0Sb/FLK8yGoc67O/Xc=
+		X9cyzFOaTpvTxM6OD9ImSneWFqQ=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/FlappyBirdTests</key>
 		<data>
-		jG8QBgG4kwcjPLUNzrFhSnMUO/U=
+		dzxC+7grZqTQAk2m71eQRjxhkc8=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCore.dylib</key>
 		<data>
-		Q5GoXZBF6dw8RwV9mtLDZxWt90Q=
+		9+5iG+88zLN3A6oeEc/eh2sbZyU=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCoreAudio.dylib</key>
 		<data>
-		TitUtTdghGTdtIXFBycaVVk/mn4=
+		wDx3PrFpX7sXbMQjuw+ZONHBQ+c=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		pq29VSxqLrKArv6Ro1cBgWBzFhQ=
+		STCFQET3fUm+hh4mdFmNmM96fvI=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		Nb3kYYc9D00F9hzaRjDUXAjTeOM=
+		QEmU6CMi3hwup+we6rxVRkL4Bdc=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCoreMedia.dylib</key>
 		<data>
-		ENUcQ/ZTAg1sdL5Kp+dQwbmKp0k=
+		h2Z7fiiR/b/cmH1la6owcleA1Z0=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		rsUI+uVzCGDXOBWHSYmU1G2jj5I=
+		tNyWMujRz1k+CGwNGAifV6kDwhk=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		bT3yToYfi6BpxGcX+I2BeIDe1+4=
+		Y7apuZYse30oY4WmB4vZt7WhcuQ=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		FsYo2kYPXQKClbPcYD3LGS2gsNc=
+		rUwtKHsok1Bx30RoAT8PP7Bvu2A=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		2kSSwo4PC/k7wrrWz5CB2n6H2Bw=
+		+1TFItoGmw+5CBuIqqwbeP+p9Kw=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftQuartzCore.dylib</key>
 		<data>
-		kglM1tkdvWjO2X38TpvPHJpOxPE=
+		BZUz3YGZdsldSGZSWOA7Rcz3cVQ=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		Jt3RKut1sWTwzykr1DeBT/5utqo=
+		4fv+/D1AnrY6bD0teK6A/jQpw7k=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftXCTest.dylib</key>
 		<data>
-		tvZzgR+XL9sRQkOJoDpC5a+/Nm0=
+		qqYQqPUGbm8fJVMDIv/D1Wl8vV0=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/Info.plist</key>
 		<data>
@@ -379,7 +379,7 @@
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		qVcawvZ1Zwz5Co/dIgE3ZIWJ0Sc=
+		3Xx3EAjOtua61iBXMBixMkzF/j4=
 		</data>
 		<key>PlugIns/FlappyBirdTests.xctest/libswiftRemoteMirror.dylib</key>
 		<data>
@@ -408,22 +408,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0BjnjPEe3j9JG9PYwQYiAV7WfW8=
+			sPWWr3GXZ0vL91Mvx7/flLJo/9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			9fvJi9h+v6w8EWLm4RDWse2A7a5DLWf2TNYcc29wV8A=
+			bOjr102jv8gs/aLcnA6TR2Vk77MAy0qK6SgKMAN9ko8=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BV1-FR-VrT-view-3se-qz-xqx.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9OtFcJz5idZXOTENs93dkZjx9KY=
+			Fw1wvBe4fIPv7BmzH+PB+2yAKGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			iuGMeoo/RprUfhzIde3mEt/5NkAKO9jGVr5q8PL+NLQ=
+			5miWYxu3LfvuwEzxGkBKmQe7fOzTdZ3FOXJsikla9qI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -441,11 +441,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PPVxsGIGIVIKifTt/4OpEEM8VHw=
+			Ak9OQ7n77ZHT5hioF7qLhzYJYeM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zv1rBlAPS8nPROSfsEdplfpAWcwq8iFGeYxoZegt4+8=
+			y9ghwaoHzAQWyam89vDfbaeO52Y+4iRGjmCqw8WMbTM=
 			</data>
 		</dict>
 		<key>Cartfile</key>
@@ -463,11 +463,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cxaRvX4d/XL2O/T34quVhV2Wx4A=
+			ZxBMUODXYpCR2WVA17en4Jxx/FY=
 			</data>
 			<key>hash2</key>
 			<data>
-			8jh6LxR83mCj1D3Xui4UmAkhTo97j+MCvCjAhJlhw2A=
+			hJ/QdwnnjjwqIFkNoH/jkATMjgcPSHr9rC+dSJKRQng=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
@@ -903,11 +903,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KeqD8ejoATOmS/m+6818OFBHlzw=
+			rsU0d0f/iuesD0UQoNb9zRi6FLw=
 			</data>
 			<key>hash2</key>
 			<data>
-			UpZb0qCMML/mq0o4nKrhNxzcnIO72gI+C1afx5jnodw=
+			DqkAYEggy5SecAuMYmFS0te+5KgTKXT1oIoHbdVt970=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XPCServices/XCUIRecorderService.xpc/Info.plist</key>
@@ -1037,143 +1037,143 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n52xdX9RbyL+ccac+npQuME58Ag=
+			faNLGFdjQ2sKiTJrHDN7U4RXBdE=
 			</data>
 			<key>hash2</key>
 			<data>
-			PP/v0ctWOC6Kw7+4CdFCvtTgPGWrxfy8YPcXVkRqJBc=
+			fLCPRW5jCJsGNMT3y5veHusT8rV0Qre0KR4zLDkbN9g=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c4UH+LXO0t3W+Cxs+s/VU4j2rE8=
+			MXDB+ryWET9N3yGOYexATfM8yUM=
 			</data>
 			<key>hash2</key>
 			<data>
-			GUi5z1xmt4+1nuX4nYnEr60Iqp5n2Unoa2Zb+m3V26g=
+			8MGveCgvZI4SOTgcD2FMF8KsgH1mlqkLQ+kcY0LjoAw=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			omTRmadnE1t+UHAA1LLm5vPoH0k=
+			OOorGbFw6QH5MIZSZxt14kTGbOs=
 			</data>
 			<key>hash2</key>
 			<data>
-			zCcVNpgyokfJEPuc9c4QZeKoQJrdp/6nphRQh3Ev+Mk=
+			KucT0j9yEAFHBfQW2+MjyFWCZfyWCNBZpA2kPWxz6lo=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			61Lh8b01uOsL/wRqsAdEl0qcQ+s=
+			v1nDC/Qm2mrsovxlH6ii4Qelepk=
 			</data>
 			<key>hash2</key>
 			<data>
-			X2sYssYIWhuFR4KuXRC4ijRa6XLHa5UICwBdhdMP5xo=
+			+xDGLXhJmwGP56+msMpDX5X6ruH6ZznrAi+kZ9EBqZY=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BVzv2zLIfhjNIzWpz9jbFUlgOcY=
+			NFHZC7/TdvkEiPGxPPvpfXE6TXc=
 			</data>
 			<key>hash2</key>
 			<data>
-			eEhfPuV/ui939VcHZxrDLPGqq4HBNh75BcZoxGdLOaM=
+			uJ9d0ERniJRbQFQwIhYjEtSusrbUM8NaA18BlOTa+kw=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3YjdFslBuZ0VRERZ3s8JswC2k7U=
+			sOjpwVNDpphVgl9Hd4jC1Vhqx+0=
 			</data>
 			<key>hash2</key>
 			<data>
-			uOax22R8COeaWI6eVjip3Ux2KV4sXe5pwIYUBTehD8A=
+			n5GHIs22Dnqd3nQaTzRHQSBo69IWY/0bCgGCXDESWCM=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftGLKit.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MYDc6IPq3xqsH6sdqajXssFGkSA=
+			LckbCH+kl1F3v9dVbV2vdtSCnbA=
 			</data>
 			<key>hash2</key>
 			<data>
-			CpRanSuvv0a402BtlC7O9oR2Uz8w+BVexJ75hGwEBd0=
+			hRBC562hYP5t2PuZfjypDg+US8TnJdWLVwMeBK73IbA=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ujngXx6GPsQAIbI4BySenJSAv1M=
+			lXbvSvlJIszKYgJma81k7nG5j2M=
 			</data>
 			<key>hash2</key>
 			<data>
-			oUePu9+qzPz300GqGVhXGUUwPcO9iOSbLBCyqFLXTwU=
+			dr0Mfbt3vTdfnvEIkhlWwgN/6wIIYIvqvH4Q0B753Ic=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftQuartzCore.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			00LP5ibSdxU3AxPH3lrW2+iSZLg=
+			336Fv3ELvJNKx2ikDWq8syVE/yg=
 			</data>
 			<key>hash2</key>
 			<data>
-			SZGlG8FsQQdHBJx3EVYeFaT45ZE2t/6JbNTtuMNe2QY=
+			MQq9ELJ/KkyQqpHVX+0+he5vYTeYDo/R7jIxUkY2/rg=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftSpriteKit.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			84x9kkuB0IMPRYmoQur3xQlmcbg=
+			59Cp/iXiHIqg/bMEz5caVh+ink4=
 			</data>
 			<key>hash2</key>
 			<data>
-			3yGt09u0gy3cDGXoTRJuAewemmdIeK5UqkjakJ52qIY=
+			4W1I3f2SY16aoCRy9+uAoRqoTb+kcaC+OlV0eqxtnNM=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftSwiftOnoneSupport.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6cc0OGnsvZEcuNcmU+Ieqg9nBJM=
+			ikqyOS6+QOETV4OYDQLAX+Dk26A=
 			</data>
 			<key>hash2</key>
 			<data>
-			fpBZ7g2IbLm1AYd+SN3BAv9uR7d8aegTumx7IcdjQ1s=
+			zbl7nS/DWmhgdOkTDRFuujV7iMFHuwwALCc2zyffBF0=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p4DZKGI6/buaayAu/0z/QVmss9g=
+			iN0wyl2sIVW34MuGpYC+a9krC6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			we0CEW1avuhaGl7eVAf//vxhmM4XDHM7LK6T6O30T8s=
+			zEcSt58JzJsjnp2R5PhOS6Yz9eTiQTF8DScphOjRsqM=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftsimd.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tv8tMFvN1/KAzb7G4vCrjLeuEks=
+			rglFC/DjSJnbDh6U3JAMFnIvKqY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ihgH7UnTyUL2gzBdRJAAqPhOgRby1RGCD+4XsLk8vOU=
+			4r6IPxIV4DXH7NT1HYMhaLTJK8Qvm+6f7Sp7tRIxgEk=
 			</data>
 		</dict>
 		<key>GameScene.sks</key>
@@ -1191,11 +1191,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EtHgD+spnPBfEXRYj6JAcPDPOvM=
+			1+OZtm70IuG7TN5BJpcRGzp5UvA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4RxSr1RcL3HYupkiQxmu1vPPHataumctzy7chtUijxM=
+			QpTtKfVQIeCfHy41yBgpfvt6MRvpICQyuYXdsZLrUDA=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -1213,11 +1213,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pItDQx9cKeWuSrBHykDx0ND2PsQ=
+			cAnElH4yzk+1fEjciVFNVuN6O0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			bojWVERU4CcUZC5xx7tloctnLpcjaY/xN3MrFk8S92E=
+			VFLQQnL9ZlwAs3aH6MzWcd4TdHKwvKn4a8wHIuNSiBc=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest.dSYM/Contents/Info.plist</key>
@@ -1235,154 +1235,154 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nT1kr3EiQ0Sb/FLK8yGoc67O/Xc=
+			X9cyzFOaTpvTxM6OD9ImSneWFqQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			l+7U3iUEI0qpZRdKrPIIiO6fq3mM/Ahq7AP8cGmf7f4=
+			6YAgARxa6CP6CvBLSI6j5os44C9JruG2MkhHxTOrNow=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/FlappyBirdTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jG8QBgG4kwcjPLUNzrFhSnMUO/U=
+			dzxC+7grZqTQAk2m71eQRjxhkc8=
 			</data>
 			<key>hash2</key>
 			<data>
-			tivRmEDoh2DpRnF6Wrjba2/4oPQewS86Is6G0lK6jLk=
+			0T4WwSCKLaN6QhVH4MaoPj8s9DtwiaKhQ0o21okXGzM=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCore.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q5GoXZBF6dw8RwV9mtLDZxWt90Q=
+			9+5iG+88zLN3A6oeEc/eh2sbZyU=
 			</data>
 			<key>hash2</key>
 			<data>
-			87j0uReYtzgncalYirpAxRVyh7MdzDt9+5iGm8FI3Kg=
+			lO9oEKlGiplM9y+dLX1rd5E8WoF74r3HmfuhzqpMN7s=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCoreAudio.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TitUtTdghGTdtIXFBycaVVk/mn4=
+			wDx3PrFpX7sXbMQjuw+ZONHBQ+c=
 			</data>
 			<key>hash2</key>
 			<data>
-			ak9fUlEPPR0Z3+AYww7KeINV/DyohKK9ZylSf51mrMA=
+			Msko+KjrQf6ryc+JsM9ZY5+8kO6Gz+LyT8gMUZ00YWs=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pq29VSxqLrKArv6Ro1cBgWBzFhQ=
+			STCFQET3fUm+hh4mdFmNmM96fvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			JuLYQJBV9IddW3Yos8ciQOaX6Fhyf4xtxOFzpy8Ij44=
+			UJkypuXAE91y/t1YzRqWClRFOHAz9VgZEdHlbAxQjjQ=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCoreImage.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Nb3kYYc9D00F9hzaRjDUXAjTeOM=
+			QEmU6CMi3hwup+we6rxVRkL4Bdc=
 			</data>
 			<key>hash2</key>
 			<data>
-			m5qZmeXqefJzL9jAygmrfWydvALvRVcPj21yZ6eG8pw=
+			G02YufsbGzjgWAAA0ybIq8Ki5L8wTCMLEYQYuPaEVxU=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftCoreMedia.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ENUcQ/ZTAg1sdL5Kp+dQwbmKp0k=
+			h2Z7fiiR/b/cmH1la6owcleA1Z0=
 			</data>
 			<key>hash2</key>
 			<data>
-			DfSg7wFjZAXYz+JOJ3CBGvqvib5HcXSKu9S9Gu6/ZJA=
+			DH8/8Tdu9DFpACkCZFYtWsMNuuwR8037EdYvQ0t/1tA=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rsUI+uVzCGDXOBWHSYmU1G2jj5I=
+			tNyWMujRz1k+CGwNGAifV6kDwhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fx2oGQ6m8I/Ew4jl078ODk1sTpU8o8sUxru1HGmcwEg=
+			6clljU8zvbHNxzYwqRWmhySmIARnnoDA0Kygf5UohrA=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftDispatch.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bT3yToYfi6BpxGcX+I2BeIDe1+4=
+			Y7apuZYse30oY4WmB4vZt7WhcuQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zj8Vz9vdbpoFX9IWEjIIsmw87Gd5qqJVEQl3cG4dMvY=
+			YE8BxBmcIg0ELzJpHchF3+Jp8ueuKrT2YZ0MYfkwaWY=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftFoundation.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FsYo2kYPXQKClbPcYD3LGS2gsNc=
+			rUwtKHsok1Bx30RoAT8PP7Bvu2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			jaSftWslIRyXbkVNqLMKWED1mG1Il5flIkDcMeV1un0=
+			r16ZCV72vtLspT3BbxHunr5uf8OnNomvs9gN9g1UxPU=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2kSSwo4PC/k7wrrWz5CB2n6H2Bw=
+			+1TFItoGmw+5CBuIqqwbeP+p9Kw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ER0it8Ru7PsZ2/HPaR9JAc9Wuj74RIoxqv3d5rFV+7E=
+			3OrfpTS9c2dtSFPa/5YvkMvaY+5X6NGoxwKNkog8AzU=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftQuartzCore.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kglM1tkdvWjO2X38TpvPHJpOxPE=
+			BZUz3YGZdsldSGZSWOA7Rcz3cVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8JPHW8+WUiBfGUThXZr6ENfAwfzhBEDooz8Tu5IipSQ=
+			yQEbr1xtYoQK9CSyYWVj1hWzR9bBGNqe9qh+8Zh2m/s=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftUIKit.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Jt3RKut1sWTwzykr1DeBT/5utqo=
+			4fv+/D1AnrY6bD0teK6A/jQpw7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			nz/rhBCjjHQvUrmRVc+KQJ7HPO9Zn1mWpnKOvhr5ro8=
+			Fr8XWWnaN8fdehGkVrYPgvYxbnX2JRCCWU9Re0y4vnE=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Frameworks/libswiftXCTest.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tvZzgR+XL9sRQkOJoDpC5a+/Nm0=
+			qqYQqPUGbm8fJVMDIv/D1Wl8vV0=
 			</data>
 			<key>hash2</key>
 			<data>
-			hjVf/yFnaZh+G5RH69vRlyyAl4hKwP56/6Mselwb+Ik=
+			JNgwsQmsvJ5xW+YBKagC3kk/LmTFU8cxcWOHhopjKvI=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/Info.plist</key>
@@ -1400,11 +1400,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qVcawvZ1Zwz5Co/dIgE3ZIWJ0Sc=
+			3Xx3EAjOtua61iBXMBixMkzF/j4=
 			</data>
 			<key>hash2</key>
 			<data>
-			k4/5sXdBwihp1rRgb6mLQc9BhJh9aYg45pQ0/LoNCKI=
+			HKzqnkXhe2cVOzvcLxe1SkfF7w0UrrGCrjRVa3YsheQ=
 			</data>
 		</dict>
 		<key>PlugIns/FlappyBirdTests.xctest/libswiftRemoteMirror.dylib</key>
