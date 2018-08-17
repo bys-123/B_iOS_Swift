@@ -8,23 +8,23 @@
 
 /* Begin PBXBuildFile section */
 		00CDA22202D9B87E2B3F9200FBACEAE4 /* Pods-FlappyBirdTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7581BCF002E79503B7416DC9AC28CCEF /* Pods-FlappyBirdTests-dummy.m */; };
-		06DA39739708174DD105F3B51C243983 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DDD0F5DAA0AC84C5E3ADE087C20B50BA /* Foundation.framework */; };
+		1FCD58364B5A038F3A4DE457256ACD71 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5D8173434FE00016739EAFDEFEA9313 /* Foundation.framework */; };
 		3145E3848BBCB4387124D5C48DD40487 /* AppCenterXCUITestExtensions-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 26FB1AE002A587D2C7554B138F579AF1 /* AppCenterXCUITestExtensions-dummy.m */; };
 		3368F4AFCA4CB510C3A4D61E21127FF7 /* AppCenterXCUITestExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 303290E1C23E882EF2B0D478D7C88220 /* AppCenterXCUITestExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4F0E449175922B97ADDC80CE4694129B /* Pods-FlappyBird-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 38431CD46C8FDFA239DB7E90DA8F82D1 /* Pods-FlappyBird-dummy.m */; };
-		595AA837582A026A5D013852CA8F0A69 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DDD0F5DAA0AC84C5E3ADE087C20B50BA /* Foundation.framework */; };
 		5BC1570D674939A96521D63FA9D0429D /* Pods-FlappyBird-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 400AC90D8C37E137DB23D14C73A5B6C6 /* Pods-FlappyBird-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5CB9C82D3C81F16A1E98491C7E9701EF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5D8173434FE00016739EAFDEFEA9313 /* Foundation.framework */; };
 		71D6E233570F4B0C9516032965F42089 /* AppCenterXCUITestExtensions-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 203A0B8094CB98F33DE780EC3C6E8F01 /* AppCenterXCUITestExtensions-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		82799CDE196D8F0B99221EC15012D547 /* ACTLaunch.h in Headers */ = {isa = PBXBuildFile; fileRef = E106EA5A452B45C71958ADCF49A899FD /* ACTLaunch.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		85CADEC4C146AC3A7622318033A5047D /* Pods-FlappyBirdUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D0CD5CF4D3BAED1747FDE44D38E97995 /* Pods-FlappyBirdUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8F79BD12FC96C879483A6D385EAAA906 /* ACTLaunch.m in Sources */ = {isa = PBXBuildFile; fileRef = 8289FAB7658896D357C209F2A2C11C9D /* ACTLaunch.m */; };
-		91A25B5D0688467C373EC5F689022B8F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DDD0F5DAA0AC84C5E3ADE087C20B50BA /* Foundation.framework */; };
 		981806B1DF9E05AE968A99D4FD8DE80E /* AppCenterXCUITestExtensions-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 701A128FCD6830F5A0006B1EB8BFC00C /* AppCenterXCUITestExtensions-Bridging-Header.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9B852041A45A21DA0490E7D42EDCDA46 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DDD0F5DAA0AC84C5E3ADE087C20B50BA /* Foundation.framework */; };
 		B53842B4221FFCC8934D4CD7FED73569 /* ACTLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 96E3091FD3AF3AC5C14A2893BBBC0FD0 /* ACTLabel.m */; };
+		BD627A4F910BD54A7AAD8D4E5CA200CF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5D8173434FE00016739EAFDEFEA9313 /* Foundation.framework */; };
 		BF9FF668583AA7AB4D73AF29D27C266C /* Pods-FlappyBirdUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C11DE127151AD9C8E8E01B37172640B /* Pods-FlappyBirdUITests-dummy.m */; };
+		C5033D454345E24E760F2C9BC860C9AF /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FBDD60AB5EC0183A198A13D9A5D7BCE /* XCTest.framework */; };
 		D8D3D10C59295E442568AA4F59E0E6BD /* Pods-FlappyBirdTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D61192F5D1F86F1A16D0D84B444CDA08 /* Pods-FlappyBirdTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E3992AC0ADB7A522930EC933B0FBCEA8 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80C82283F763D9ABC7DD3BB91787CA8D /* XCTest.framework */; };
+		DF1C4552921D5CDFFC623C6D667B0464 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5D8173434FE00016739EAFDEFEA9313 /* Foundation.framework */; };
 		EBA610C6E7D7D9C653ABD89793D21009 /* ACTLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = E4F6AE14ED9F3A066E0A81C608B1280E /* ACTLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -50,6 +50,7 @@
 		330D9B8D6B44F2CCAB11B0BFE771DAA4 /* AppCenterXCUITestExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AppCenterXCUITestExtensions.framework; path = AppCenterXCUITestExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38431CD46C8FDFA239DB7E90DA8F82D1 /* Pods-FlappyBird-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FlappyBird-dummy.m"; sourceTree = "<group>"; };
 		3895C9E57A52E47D2DA1F81B5B65EA8E /* Pods-FlappyBirdUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FlappyBirdUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		3FBDD60AB5EC0183A198A13D9A5D7BCE /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		400AC90D8C37E137DB23D14C73A5B6C6 /* Pods-FlappyBird-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FlappyBird-umbrella.h"; sourceTree = "<group>"; };
 		4B5A02E59694A664895358C86DC3030E /* AppCenterXCUITestExtensions-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AppCenterXCUITestExtensions-prefix.pch"; sourceTree = "<group>"; };
 		4CC7417A3A6EAB790BE5D14AE6E130F4 /* Pods-FlappyBird-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FlappyBird-frameworks.sh"; sourceTree = "<group>"; };
@@ -59,7 +60,6 @@
 		5CD21F8917C93F57B8BF423AEBD2ED3A /* Pods-FlappyBirdTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FlappyBirdTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		701A128FCD6830F5A0006B1EB8BFC00C /* AppCenterXCUITestExtensions-Bridging-Header.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "AppCenterXCUITestExtensions-Bridging-Header.h"; path = "Sources/AppCenterXCUITestExtensions-Bridging-Header.h"; sourceTree = "<group>"; };
 		7581BCF002E79503B7416DC9AC28CCEF /* Pods-FlappyBirdTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FlappyBirdTests-dummy.m"; sourceTree = "<group>"; };
-		80C82283F763D9ABC7DD3BB91787CA8D /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		8289FAB7658896D357C209F2A2C11C9D /* ACTLaunch.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ACTLaunch.m; path = Sources/ACTLaunch.m; sourceTree = "<group>"; };
 		84FCADC29C37260263E393DAFBC52BA8 /* Pods_FlappyBirdTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FlappyBirdTests.framework; path = "Pods-FlappyBirdTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C11DE127151AD9C8E8E01B37172640B /* Pods-FlappyBirdUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FlappyBirdUITests-dummy.m"; sourceTree = "<group>"; };
@@ -82,11 +82,11 @@
 		D0CD5CF4D3BAED1747FDE44D38E97995 /* Pods-FlappyBirdUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FlappyBirdUITests-umbrella.h"; sourceTree = "<group>"; };
 		D5E7DCAD41C2EA7685B2449C732BCB8A /* Pods-FlappyBird.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlappyBird.release.xcconfig"; sourceTree = "<group>"; };
 		D61192F5D1F86F1A16D0D84B444CDA08 /* Pods-FlappyBirdTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FlappyBirdTests-umbrella.h"; sourceTree = "<group>"; };
-		DDD0F5DAA0AC84C5E3ADE087C20B50BA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DECFBBE64FD88B46756ECDA6D3B552A1 /* Pods-FlappyBirdTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlappyBirdTests.release.xcconfig"; sourceTree = "<group>"; };
 		E106EA5A452B45C71958ADCF49A899FD /* ACTLaunch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ACTLaunch.h; path = Sources/ACTLaunch.h; sourceTree = "<group>"; };
 		E13F446621CEB0BE5D501C65638E13DC /* Pods-FlappyBirdUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FlappyBirdUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E4F6AE14ED9F3A066E0A81C608B1280E /* ACTLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ACTLabel.h; path = Sources/ACTLabel.h; sourceTree = "<group>"; };
+		E5D8173434FE00016739EAFDEFEA9313 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		E7E9CFD7C82CC96B8F843CDC429CFF3E /* AppCenterAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterAnalytics.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterAnalytics.framework"; sourceTree = "<group>"; };
 		EB77F363C32186A779E5A087BCC96975 /* AppCenterXCUITestExtensions.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AppCenterXCUITestExtensions.modulemap; sourceTree = "<group>"; };
 		EDC534641225488CEF7B8EFEA38E8FA7 /* Pods-FlappyBird.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlappyBird.debug.xcconfig"; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91A25B5D0688467C373EC5F689022B8F /* Foundation.framework in Frameworks */,
+				BD627A4F910BD54A7AAD8D4E5CA200CF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,7 +107,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				06DA39739708174DD105F3B51C243983 /* Foundation.framework in Frameworks */,
+				1FCD58364B5A038F3A4DE457256ACD71 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -115,8 +115,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9B852041A45A21DA0490E7D42EDCDA46 /* Foundation.framework in Frameworks */,
-				E3992AC0ADB7A522930EC933B0FBCEA8 /* XCTest.framework in Frameworks */,
+				5CB9C82D3C81F16A1E98491C7E9701EF /* Foundation.framework in Frameworks */,
+				C5033D454345E24E760F2C9BC860C9AF /* XCTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -124,7 +124,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				595AA837582A026A5D013852CA8F0A69 /* Foundation.framework in Frameworks */,
+				DF1C4552921D5CDFFC623C6D667B0464 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -165,15 +165,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		1E85F0F44277212282918D8D5DDB3588 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				DDD0F5DAA0AC84C5E3ADE087C20B50BA /* Foundation.framework */,
-				80C82283F763D9ABC7DD3BB91787CA8D /* XCTest.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		1F537F205220EBEC5387F21258A543FB /* Push */ = {
 			isa = PBXGroup;
 			children = (
@@ -199,7 +190,7 @@
 		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				1E85F0F44277212282918D8D5DDB3588 /* iOS */,
+				7BE34EE7067F7CC8A54539A282682749 /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -227,6 +218,15 @@
 				130F72AB2A859BD0DAD04AFA7C8AD575 /* Frameworks */,
 			);
 			name = Crashes;
+			sourceTree = "<group>";
+		};
+		7BE34EE7067F7CC8A54539A282682749 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				E5D8173434FE00016739EAFDEFEA9313 /* Foundation.framework */,
+				3FBDD60AB5EC0183A198A13D9A5D7BCE /* XCTest.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
