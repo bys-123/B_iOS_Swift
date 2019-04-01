@@ -19,17 +19,18 @@ class AppDelegate: UIResponder, UIApplicationDelegate,MSCrashesDelegate,MSPushDe
         //MSMobileCenter.setLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
         MSCrashes.setDelegate(self)
         MSPush.setDelegate(self)
-        MSAppCenter.start("53d1f52d-dd43-4cfb-8cde-1cefb3dd9128", withServices:[
+        MSAppCenter.start("7521fb74-fd6c-47f0-adb2-feb577eb6645", withServices:[
             MSAnalytics.self,
             MSCrashes.self,
             MSPush.self
             ])        // Override point for customization after application launch.
         MSAnalytics.trackEvent("launch");
-        var customProperties = MSCustomProperties()
+        let customProperties = MSCustomProperties()
         customProperties.setString("green", forKey: "color")
         customProperties.setNumber(10, forKey: "score")
         MSAppCenter.setCustomProperties(customProperties)
-        var installId = MSAppCenter.installId();
+        let installId = MSAppCenter.installId();
+        MSAppCenter.setUserId("AppCenter-Test-UserID");
         let alert = UIAlertView(title: "send scucceed", message: String(describing: installId),delegate: self,cancelButtonTitle: "OK");
         alert.show();
         MSCrashes.setUserConfirmationHandler({ (errorReports: [MSErrorReport]) in
